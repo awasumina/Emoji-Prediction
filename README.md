@@ -52,5 +52,5 @@ The model's accuracy is computed on the test set. Incorrect predictions are disp
 
 ## Results
 
-The trained model can predict the appropriate emoji based on the context of the sentence. Future improvements can include using LSTM architecture for better accuracy in longer sequences.
+The trained model can predict the appropriate emoji based on the context of the sentence. Future improvements can include using LSTM architecture for better accuracy in longer sequences.     
 
